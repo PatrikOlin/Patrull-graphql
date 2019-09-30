@@ -1,0 +1,3 @@
+2019-09-30T20:56:18.208078{"error": "H\u00e4r small det visst lite"}
+2019-09-30T20:56:24.186948{"error": "H\u00e4r small det visst lite"}
+2019-09-30T20:56:48.638390: {"error": "H\u00e4r small det visst lite"}

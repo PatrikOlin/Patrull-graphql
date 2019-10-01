@@ -1,4 +1,5 @@
 from flask_restplus import Namespace, Resource
+import json
 
 api = Namespace('isAlive', description='Basic isAlive-endpoint')
 

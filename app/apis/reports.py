@@ -1,11 +1,19 @@
 from flask import Flask, request, Response
-from flask_restplus import Api, Resource, Namespace
+from flask_restplus import Api, Resource, Namespace, fields
 import json
 from datetime import datetime
 
 app = Flask(__name__)
 
 api = Namespace('reports', description='Error reports')
+
+report = api.model('Report', {
+    'id': fields.Integer(required=True, description='Report ID'),
+    'publickey': fields.String(required=False, description='Public key used when error occurred'),
+    'timestamp': fields.DateTime(required=True, description='Timestamp of when error report was received by Patrull'),
+    'error': fields.String(required=True, description='Error message'),
+    'severity': fields.String(required=True, description='Severity of the error')
+})
 
 
 @api.route('/')

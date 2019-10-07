@@ -1,0 +1,1751 @@
+2019-10-04T09:48:58.594705: {
+    "message": "Cannot read property 'length' of null",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at StartComponent.push../src/app/start/pages/start/start.component.ts.StartComponent.clientError (http://localhost:4200/3.d125ff5e89db77a74158.js:1048:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/StartComponent.ngfactory.js:15:27)\n    at handleEvent (http://localhost:4200/main.ef44846ba5fd1378faff.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.ef44846ba5fd1378faff.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.ef44846ba5fd1378faff.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.ef44846ba5fd1378faff.js:82098:25)\n    at http://localhost:4200/main.ef44846ba5fd1378faff.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.ef44846ba5fd1378faff.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.ef44846ba5fd1378faff.js:78832:33)"
+}2019-10-04T10:32:27.178130: {
+    "message": "Cannot read property 'length' of null",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at l.clientError (http://localhost:4200/14.ef41b37efc5177efd37e.js:1:39967)\n    at Object.handleEvent (http://localhost:4200/14.ef41b37efc5177efd37e.js:1:40754)\n    at handleEvent (http://localhost:4200/main.eff1269fe0ce596ab9de.js:1:568168)\n    at Cv (http://localhost:4200/main.eff1269fe0ce596ab9de.js:1:587331)\n    at Object.fv [as handleEvent] (http://localhost:4200/main.eff1269fe0ce596ab9de.js:1:583210)\n    at Dm (http://localhost:4200/main.eff1269fe0ce596ab9de.js:1:537933)\n    at http://localhost:4200/main.eff1269fe0ce596ab9de.js:1:544168\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.eff1269fe0ce596ab9de.js:1:1273942)\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7789)\n    at Object.onInvokeTask (http://localhost:4200/main.eff1269fe0ce596ab9de.js:1:498418)"
+}2019-10-04T10:44:48.127811: {
+    "message": "Uncaught (in promise): [object Undefined]",
+    "publicKey": "e7968fa1-5edb-4dae-9b61-8d53e36d0277",
+    "stackTrace": "Error: Uncaught (in promise): [object Undefined]\n    at P (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:13021)\n    at P (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:12579)\n    at http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:13809\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7789)\n    at Object.onInvokeTask (http://localhost:4200/main.f5569f953a61315bcdbe.js:1:476106)\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7710)\n    at t.runTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:2971)\n    at g (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:10056)\n    at t.invokeTask [as invoke] (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:8901)\n    at m (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:22318)"
+}2019-10-04T10:45:53.714172: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "861f53f1-ccb8-413e-a714-565d4c63e007",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at l.clientError (http://localhost:4200/14.8523dcb7c68721d62d97.js:1:40582)\n    at Object.handleEvent (http://localhost:4200/14.8523dcb7c68721d62d97.js:1:41356)\n    at Object.handleEvent (http://localhost:4200/main.f5569f953a61315bcdbe.js:1:545856)\n    at Object.handleEvent (http://localhost:4200/main.f5569f953a61315bcdbe.js:1:557039)\n    at Om (http://localhost:4200/main.f5569f953a61315bcdbe.js:1:515621)\n    at http://localhost:4200/main.f5569f953a61315bcdbe.js:1:521856\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.f5569f953a61315bcdbe.js:1:1251630)\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7789)\n    at Object.onInvokeTask (http://localhost:4200/main.f5569f953a61315bcdbe.js:1:476106)\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7710)"
+}2019-10-04T10:46:55.765844: {
+    "message": "Cannot convert undefined or null to object",
+    "stackTrace": "TypeError: Cannot convert undefined or null to object\n    at Function.keys (<anonymous>)\n    at ModuleAccessService.push../src/app/core/services/module-access.service.ts.ModuleAccessService.getModules (http://localhost:4200/main.b508156fdb996b7b181d.js:269154:29)\n    at NavMenuComponent.push../src/app/common/components/nav-menu/nav-menu.component.ts.NavMenuComponent.loadNav (http://localhost:4200/main.b508156fdb996b7b181d.js:262207:42)\n    at NavMenuComponent.push../src/app/common/components/nav-menu/nav-menu.component.ts.NavMenuComponent.ngOnInit (http://localhost:4200/main.b508156fdb996b7b181d.js:262096:18)\n    at checkAndUpdateDirectiveInline (http://localhost:4200/main.b508156fdb996b7b181d.js:83641:19)\n    at checkAndUpdateNodeInline (http://localhost:4200/main.b508156fdb996b7b181d.js:84905:20)\n    at checkAndUpdateNode (http://localhost:4200/main.b508156fdb996b7b181d.js:84867:16)\n    at debugCheckAndUpdateNode (http://localhost:4200/main.b508156fdb996b7b181d.js:85501:38)\n    at debugCheckDirectivesFn (http://localhost:4200/main.b508156fdb996b7b181d.js:85461:13)\n    at Object.eval [as updateDirectives] (ng:///SharedModule/NavMenuComponent_Host.ngfactory.js:13:5)"
+}2019-10-04T10:46:55.811278: {
+    "message": "Uncaught (in promise): [object Undefined]",
+    "stackTrace": "Error: Uncaught (in promise): [object Undefined]\n    at resolvePromise (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:3193:31)\n    at resolvePromise (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:3150:17)\n    at http://localhost:4200/polyfills.cf675a02ad3339f81809.js:3254:17\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.b508156fdb996b7b181d.js:78832:33)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2784:60)\n    at Zone.push../node_modules/zone.js/dist/zone.js.Zone.runTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2557:47)\n    at drainMicroTaskQueue (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2963:35)"
+}2019-10-04T10:47:09.860394: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at StartComponent.push../src/app/start/pages/start/start.component.ts.StartComponent.clientError (http://localhost:4200/3.d125ff5e89db77a74158.js:1048:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/StartComponent.ngfactory.js:15:27)\n    at handleEvent (http://localhost:4200/main.b508156fdb996b7b181d.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.b508156fdb996b7b181d.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.b508156fdb996b7b181d.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.b508156fdb996b7b181d.js:82098:25)\n    at http://localhost:4200/main.b508156fdb996b7b181d.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.b508156fdb996b7b181d.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.b508156fdb996b7b181d.js:78832:33)"
+}2019-10-04T10:52:20.243808: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.e14663d1f5076442aaa9.js:90:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.b508156fdb996b7b181d.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.b508156fdb996b7b181d.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.b508156fdb996b7b181d.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.b508156fdb996b7b181d.js:82098:25)\n    at http://localhost:4200/main.b508156fdb996b7b181d.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.b508156fdb996b7b181d.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.b508156fdb996b7b181d.js:78832:33)"
+}2019-10-04T10:54:40.500690: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.b508156fdb996b7b181d.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.b508156fdb996b7b181d.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.b508156fdb996b7b181d.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.b508156fdb996b7b181d.js:82098:25)\n    at http://localhost:4200/main.b508156fdb996b7b181d.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.b508156fdb996b7b181d.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.b508156fdb996b7b181d.js:78832:33)"
+}2019-10-04T10:54:47.890326: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "stack"
+}2019-10-04T11:04:34.625175: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null
+}2019-10-04T11:08:09.596778: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null
+}2019-10-04T11:09:26.854056: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null
+}2019-10-04T11:10:35.699383: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null
+}2019-10-04T11:33:16.384354: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "params": null,
+    "reqBody": null
+}2019-10-04T11:34:01.092079: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "params": null,
+    "reqBody": null
+}2019-10-04T11:34:24.564576: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "params": null,
+    "reqBody": null
+}2019-10-04T11:35:06.934760: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "params": null,
+    "reqBody": null
+}2019-10-04T11:36:10.564696: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "stack",
+    "params": null,
+    "reqBody": null
+}2019-10-04T11:39:58.754159: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "stack",
+    "params": {
+        "updates": null,
+        "cloneFrom": null,
+        "encoder": {},
+        "map": null
+    },
+    "reqBody": null
+}2019-10-04T11:40:17.895915: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.56c5617a2b92d460f0e5.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.56c5617a2b92d460f0e5.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.56c5617a2b92d460f0e5.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.56c5617a2b92d460f0e5.js:82098:25)\n    at http://localhost:4200/main.56c5617a2b92d460f0e5.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.56c5617a2b92d460f0e5.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.56c5617a2b92d460f0e5.js:78832:33)",
+    "params": null,
+    "reqBody": null
+}2019-10-04T11:40:20.633803: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "stack",
+    "params": {
+        "updates": null,
+        "cloneFrom": null,
+        "encoder": {},
+        "map": null
+    },
+    "reqBody": null
+}2019-10-04T11:47:43.066719: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.e98fc52b732a7a224c5c.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.e98fc52b732a7a224c5c.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.e98fc52b732a7a224c5c.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.e98fc52b732a7a224c5c.js:82098:25)\n    at http://localhost:4200/main.e98fc52b732a7a224c5c.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.e98fc52b732a7a224c5c.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.e98fc52b732a7a224c5c.js:78832:33)",
+    "params": null,
+    "reqBody": null
+}2019-10-04T11:49:05.521698: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:19:24.092022: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.35a4b7dbe9575eab898d.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.35a4b7dbe9575eab898d.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.35a4b7dbe9575eab898d.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.35a4b7dbe9575eab898d.js:82098:25)\n    at http://localhost:4200/main.35a4b7dbe9575eab898d.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.35a4b7dbe9575eab898d.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.35a4b7dbe9575eab898d.js:78832:33)",
+    "request": null
+}2019-10-04T12:19:29.085943: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:19:52.783339: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.35a4b7dbe9575eab898d.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.35a4b7dbe9575eab898d.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.35a4b7dbe9575eab898d.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.35a4b7dbe9575eab898d.js:82098:25)\n    at http://localhost:4200/main.35a4b7dbe9575eab898d.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.35a4b7dbe9575eab898d.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.35a4b7dbe9575eab898d.js:78832:33)",
+    "request": null
+}2019-10-04T12:21:44.325739: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.82baae8dfb7d08afe3d5.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.82baae8dfb7d08afe3d5.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.82baae8dfb7d08afe3d5.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.82baae8dfb7d08afe3d5.js:82098:25)\n    at http://localhost:4200/main.82baae8dfb7d08afe3d5.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.82baae8dfb7d08afe3d5.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.82baae8dfb7d08afe3d5.js:78832:33)",
+    "request": null
+}2019-10-04T12:22:02.198005: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:24:40.798994: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:25:39.688606: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:26:08.145351: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:26:36.890497: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:27:07.421965: {
+    "message": "[object Object]",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "request": null
+}2019-10-04T12:28:18.644491: {
+    "message": "Resultatdata saknas",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999"
+    }
+}2019-10-04T12:29:32.748444: {
+    "message": "Resultatdata saknas",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999"
+    }
+}
+2019-10-04T12:39:06.004978: {
+    "message": "Resultatdata saknas",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999"
+    }
+}
+2019-10-04T12:49:44.794329: {
+    "message": "Resultatdata saknas",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999"
+    }
+}
+2019-10-04T12:50:03.540040: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.e71554cf1cf72fe391d9.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.e71554cf1cf72fe391d9.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.e71554cf1cf72fe391d9.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.e71554cf1cf72fe391d9.js:82098:25)\n    at http://localhost:4200/main.e71554cf1cf72fe391d9.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.e71554cf1cf72fe391d9.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.e71554cf1cf72fe391d9.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T13:01:28.145064: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.e71554cf1cf72fe391d9.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.e71554cf1cf72fe391d9.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.e71554cf1cf72fe391d9.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.e71554cf1cf72fe391d9.js:82098:25)\n    at http://localhost:4200/main.e71554cf1cf72fe391d9.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.e71554cf1cf72fe391d9.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.e71554cf1cf72fe391d9.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T13:01:40.357729: {
+    "message": "Resultatdata saknas",
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999"
+    }
+}
+2019-10-04T13:03:08.316583: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.e71554cf1cf72fe391d9.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.e71554cf1cf72fe391d9.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.e71554cf1cf72fe391d9.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.e71554cf1cf72fe391d9.js:82098:25)\n    at http://localhost:4200/main.e71554cf1cf72fe391d9.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.e71554cf1cf72fe391d9.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.e71554cf1cf72fe391d9.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T13:08:31.906348: {
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:09:09.447244: {
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:13:48.508280: {
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:16:10.597871: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.9e2484ce417770129876.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.4c70d6bb2ab0e8b032e3.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.4c70d6bb2ab0e8b032e3.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.4c70d6bb2ab0e8b032e3.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.4c70d6bb2ab0e8b032e3.js:82098:25)\n    at http://localhost:4200/main.4c70d6bb2ab0e8b032e3.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.4c70d6bb2ab0e8b032e3.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.4c70d6bb2ab0e8b032e3.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T13:18:19.017565: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.9e2484ce417770129876.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.8e8595262ede63afe0b2.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.8e8595262ede63afe0b2.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.8e8595262ede63afe0b2.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.8e8595262ede63afe0b2.js:82098:25)\n    at http://localhost:4200/main.8e8595262ede63afe0b2.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.8e8595262ede63afe0b2.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.8e8595262ede63afe0b2.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T13:18:30.541395: {
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:19:21.417255: {
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:19:47.174565: {
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:21:17.072362: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "b3510b49-2f27-44ae-b421-afed7c1c51f8",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.9e2484ce417770129876.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.9db7f27eb6213cab00ff.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.9db7f27eb6213cab00ff.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.9db7f27eb6213cab00ff.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.9db7f27eb6213cab00ff.js:82098:25)\n    at http://localhost:4200/main.9db7f27eb6213cab00ff.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.9db7f27eb6213cab00ff.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.9db7f27eb6213cab00ff.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T13:22:10.758631: {
+    "message": "Resultatdata saknas",
+    "publicKey": "4ad50a75-c4a2-4e6e-9115-4fccacbd9707",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/23",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/23: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/23",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/23"
+    }
+}
+2019-10-04T13:22:36.235423: {
+    "message": "Resultatdata saknas",
+    "publicKey": "4ad50a75-c4a2-4e6e-9115-4fccacbd9707",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/13",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/13: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/13",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/customerinvoice/13"
+    }
+}
+2019-10-04T13:22:52.843084: {
+    "message": "Resultatdata saknas",
+    "publicKey": "4ad50a75-c4a2-4e6e-9115-4fccacbd9707",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/historylog/supplierinvoice/1179",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/historylog/supplierinvoice/1179: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/historylog/supplierinvoice/1179",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/historylog/supplierinvoice/1179"
+    }
+}
+2019-10-04T13:28:03.685865: {
+    "publicKey": "4ad50a75-c4a2-4e6e-9115-4fccacbd9707",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:29:06.308472: {
+    "message": "[object Object]",
+    "publicKey": "4ad50a75-c4a2-4e6e-9115-4fccacbd9707",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T13:30:04.486987: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "publicKey": "4ad50a75-c4a2-4e6e-9115-4fccacbd9707",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T14:11:24.581174: {
+    "message": "Cannot read property 'length' of null",
+    "time": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.9e2484ce417770129876.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.5c8178a255730e891512.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.5c8178a255730e891512.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.5c8178a255730e891512.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.5c8178a255730e891512.js:82098:25)\n    at http://localhost:4200/main.5c8178a255730e891512.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.5c8178a255730e891512.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.5c8178a255730e891512.js:78832:33)",
+    "url": null,
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": 1570191084537,
+    "request": "/start"
+}
+2019-10-04T14:12:59.867594: {
+    "message": "Cannot read property 'length' of null",
+    "time": 1570191179834,
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.9e2484ce417770129876.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.39cc37be56b6bae21c90.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.39cc37be56b6bae21c90.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.39cc37be56b6bae21c90.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.39cc37be56b6bae21c90.js:82098:25)\n    at http://localhost:4200/main.39cc37be56b6bae21c90.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.39cc37be56b6bae21c90.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.39cc37be56b6bae21c90.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T14:13:22.259912: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": 1570191202245,
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T14:15:45.685593: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 12:15:45 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.9e2484ce417770129876.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.7f76dcaee8d74166533a.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.7f76dcaee8d74166533a.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.7f76dcaee8d74166533a.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.7f76dcaee8d74166533a.js:82098:25)\n    at http://localhost:4200/main.7f76dcaee8d74166533a.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.7f76dcaee8d74166533a.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.7f76dcaee8d74166533a.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T14:16:03.346760: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 12:16:03 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T14:24:41.065413: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 12:24:41 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.9451a70966e65e29ccd5.js:93:14)\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.initiateChaos (http://localhost:4200/3.9451a70966e65e29ccd5.js:110:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:33:31)\n    at handleEvent (http://localhost:4200/main.7f76dcaee8d74166533a.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.7f76dcaee8d74166533a.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.7f76dcaee8d74166533a.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.7f76dcaee8d74166533a.js:82098:25)\n    at http://localhost:4200/main.7f76dcaee8d74166533a.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.7f76dcaee8d74166533a.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T14:25:28.803844: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 12:25:28 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.b75cfed3799c80fb588a.js:93:14)\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.initiateChaos (http://localhost:4200/3.b75cfed3799c80fb588a.js:111:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:33:31)\n    at handleEvent (http://localhost:4200/main.7f76dcaee8d74166533a.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.7f76dcaee8d74166533a.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.7f76dcaee8d74166533a.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.7f76dcaee8d74166533a.js:82098:25)\n    at http://localhost:4200/main.7f76dcaee8d74166533a.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.7f76dcaee8d74166533a.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T14:25:28.932695: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 12:25:28 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T14:27:01.035599: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 12:27:01 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.b75cfed3799c80fb588a.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82098:25)\n    at http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T14:27:05.657998: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 12:27:05 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T15:01:01.915194: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 13:01:01 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.b75cfed3799c80fb588a.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82098:25)\n    at http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T15:01:10.704059: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 13:01:10 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T15:01:20.652235: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 13:01:20 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.b75cfed3799c80fb588a.js:93:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82098:25)\n    at http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:78832:33)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T15:01:30.398189: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 13:01:30 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.b75cfed3799c80fb588a.js:93:14)\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.initiateChaos (http://localhost:4200/3.b75cfed3799c80fb588a.js:111:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:33:31)\n    at handleEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82098:25)\n    at http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T15:01:30.628456: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 13:01:30 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T15:04:25.710031: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 13:04:25 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.b75cfed3799c80fb588a.js:93:14)\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.initiateChaos (http://localhost:4200/3.b75cfed3799c80fb588a.js:111:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:33:31)\n    at handleEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82098:25)\n    at http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T15:04:25.931590: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 13:04:25 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T15:07:29.385562: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 13:07:29 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T15:07:58.333828: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 13:07:58 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.45d0eafebc6917bee564.js:93:14)\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.initiateChaos (http://localhost:4200/3.45d0eafebc6917bee564.js:111:14)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:33:31)\n    at handleEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82098:25)\n    at http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.4ebe3dd0f9aa02773fe6.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T15:07:58.524999: {
+    "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+    "time": "Fri, 04 Oct 2019 13:07:58 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants: 500 OK",
+        "error": "{\"exception\":\"RuntimeException\", \"message\":\"java.lang.NumberFormatException: For input string: \"asd\"\"}"
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants",
+        "body": {
+            "accountingPrivilege": null,
+            "cloudUserId": "asd",
+            "id": "",
+            "name": "",
+            "nextId": "",
+            "type": 2,
+            "remarks": ""
+        },
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "POST",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants"
+    }
+}
+2019-10-04T15:15:32.946713: {
+    "message": "Uncaught (in promise): [object Undefined]",
+    "time": "Fri, 04 Oct 2019 13:15:32 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "Error: Uncaught (in promise): [object Undefined]\n    at P (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:13021)\n    at P (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:12579)\n    at http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:13809\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7789)\n    at Object.onInvokeTask (http://localhost:4200/main.e967581863ed1060dca7.js:1:498418)\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7710)\n    at t.runTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:2971)\n    at g (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:10056)\n    at t.invokeTask [as invoke] (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:8901)\n    at m (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:22318)",
+    "errorResponse": null,
+    "request": null
+}
+2019-10-04T15:15:33.481103: {
+    "message": "Anrop avbrutet: exception.BlappBusinessException: Gammal sessionsnyckel",
+    "time": "Fri, 04 Oct 2019 13:15:33 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5: 500 OK",
+        "error": {
+            "exception": "BlappBusinessException",
+            "message": "Anrop avbrutet: exception.BlappBusinessException: Gammal sessionsnyckel"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5"
+    }
+}
+2019-10-04T15:15:33.502945: {
+    "message": "Anrop avbrutet: exception.BlappBusinessException: Gammal sessionsnyckel",
+    "time": "Fri, 04 Oct 2019 13:15:33 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "https://lh3.googleusercontent.com/-ZM8GUd07DaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcZaqqFvMyTsdfl9OJMTcoH4sdujQ/s96-c/photo.jpg",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": null,
+    "errorResponse": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5: 500 OK",
+        "error": {
+            "exception": "BlappBusinessException",
+            "message": "Anrop avbrutet: exception.BlappBusinessException: Gammal sessionsnyckel"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-stage.blinfo.se/backend/sp/attestants/cld/5"
+    }
+}
+2019-10-04T15:17:23.266640: {
+    "message": "Cannot read property 'length' of null",
+    "time": "Fri, 04 Oct 2019 13:17:23 GMT",
+    "url": "/start",
+    "user": {
+        "name": "Patrik Olin",
+        "photoUrl": "/assets/images/no-profile-pic.png",
+        "source": "GOOGLE",
+        "email": "enmejl@gmail.com"
+    },
+    "publicKey": "e7968fa1-5edb-4dae-9b61-8d53e36d0277",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at l.clientError (http://localhost:4200/14.9612ce10354e2011178e.js:1:1216)\n    at Object.handleEvent (http://localhost:4200/14.9612ce10354e2011178e.js:1:1925)\n    at handleEvent (http://localhost:4200/main.e967581863ed1060dca7.js:1:568168)\n    at Cv (http://localhost:4200/main.e967581863ed1060dca7.js:1:587331)\n    at Object.fv [as handleEvent] (http://localhost:4200/main.e967581863ed1060dca7.js:1:583210)\n    at Dm (http://localhost:4200/main.e967581863ed1060dca7.js:1:537933)\n    at http://localhost:4200/main.e967581863ed1060dca7.js:1:544168\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.e967581863ed1060dca7.js:1:1273942)\n    at e.invokeTask (http://localhost:4200/polyfills.e8957e925488a611c0e8.js:1:7789)\n    at Object.onInvokeTask (http://localhost:4200/main.e967581863ed1060dca7.js:1:498418)",
+    "errorResponse": null,
+    "request": null
+}

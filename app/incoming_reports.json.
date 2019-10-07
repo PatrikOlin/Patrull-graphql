@@ -1,0 +1,48 @@
+
+2019-10-04T12:31:59.260178: {
+    "message": "Resultatdata saknas",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": {
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null
+        },
+        "status": 500,
+        "statusText": "OK",
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "ok": false,
+        "name": "HttpErrorResponse",
+        "message": "Http failure response for https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999: 500 OK",
+        "error": {
+            "exception": "DataAccessException",
+            "message": "Resultatdata saknas"
+        }
+    },
+    "request": {
+        "url": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999",
+        "body": null,
+        "reportProgress": false,
+        "withCredentials": false,
+        "responseType": "json",
+        "method": "GET",
+        "headers": {
+            "normalizedNames": {},
+            "lazyUpdate": null,
+            "lazyInit": null,
+            "headers": {}
+        },
+        "params": {
+            "updates": null,
+            "cloneFrom": null,
+            "encoder": {},
+            "map": null
+        },
+        "urlWithParams": "https://api-blapp-test.blinfo.se/backend/sp/attestants/cld/9999999"
+    }
+}
+2019-10-04T12:33:26.086501: {
+    "message": "Cannot read property 'length' of null",
+    "publicKey": "ea6f8d93-3f14-423d-9339-1cf13d46c413",
+    "stackTrace": "TypeError: Cannot read property 'length' of null\n    at ErrorGeneratorComponent.push../src/app/core/errorHandling/error-generator.component.ts.ErrorGeneratorComponent.clientError (http://localhost:4200/3.845c035577b147e85c67.js:93:13)\n    at Object.eval [as handleEvent] (ng:///StartModule/ErrorGeneratorComponent.ngfactory.js:13:23)\n    at handleEvent (http://localhost:4200/main.ba512388ff98306612f6.js:84649:41)\n    at callWithDebugContext (http://localhost:4200/main.ba512388ff98306612f6.js:85719:25)\n    at Object.debugHandleEvent [as handleEvent] (http://localhost:4200/main.ba512388ff98306612f6.js:85446:12)\n    at dispatchEvent (http://localhost:4200/main.ba512388ff98306612f6.js:82098:25)\n    at http://localhost:4200/main.ba512388ff98306612f6.js:82545:38\n    at HTMLButtonElement.<anonymous> (http://localhost:4200/main.ba512388ff98306612f6.js:135076:36)\n    at ZoneDelegate.push../node_modules/zone.js/dist/zone.js.ZoneDelegate.invokeTask (http://localhost:4200/polyfills.cf675a02ad3339f81809.js:2785:31)\n    at Object.onInvokeTask (http://localhost:4200/main.ba512388ff98306612f6.js:78832:33)",
+    "request": null
+}

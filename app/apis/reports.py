@@ -11,8 +11,9 @@ report = api.model('Report', {
     'id': fields.Integer(required=True, description='Report ID'),
     'publickey': fields.String(required=False, description='Public key used when error occurred'),
     'timestamp': fields.DateTime(required=True, description='Timestamp of when error report was received by Patrull'),
-    'error': fields.String(required=True, description='Error message'),
-    'severity': fields.String(required=True, description='Severity of the error')
+    'errorMsg': fields.String(required=True, description='Error message'),
+    'severity': fields.String(required=True, description='Severity of the error'),
+    'stackTrace': fields.String(required=False, description='Error stacktrace')
 })
 
 
@@ -21,10 +22,9 @@ class Report(Resource):
     def post(self):
         timestamp = datetime.now()
         error = request.get_json()
-        with open('incoming_reports.txt', 'a') as outfile:
-            outfile.write(timestamp.isoformat() + ': ')
-            json.dump(error, outfile)
-            outfile.write(str('\n'))
+        with open('incoming_reports.json', 'a', encoding='utf-8') as outfile:
+            outfile.write('\n' + timestamp.isoformat() + ': ')
+            json.dump(error, outfile, ensure_ascii=False, indent=4)
 
         if error is None:
             response = Response("{'error': 'Report not received'",

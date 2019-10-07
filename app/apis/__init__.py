@@ -5,6 +5,7 @@ from .reports import api as ns1
 api = Api(
     title='Patrull API',
     version='0.1',
+    doc='/docs'
 )
 
 api.add_namespace(ns0)
